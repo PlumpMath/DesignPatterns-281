@@ -1,0 +1,6 @@
+c:\users\nestor\documents\visual studio 2012\Projects\JobInterview\JobInterview\bin\Debug\JobInterview.exe.config
+C:\Users\Nestor\documents\visual studio 2012\Projects\JobInterview\JobInterview\bin\Debug\JobInterview.exe
+C:\Users\Nestor\documents\visual studio 2012\Projects\JobInterview\JobInterview\bin\Debug\JobInterview.pdb
+C:\Users\Nestor\documents\visual studio 2012\Projects\JobInterview\JobInterview\obj\Debug\JobInterview.csprojResolveAssemblyReference.cache
+C:\Users\Nestor\documents\visual studio 2012\Projects\JobInterview\JobInterview\obj\Debug\JobInterview.exe
+C:\Users\Nestor\documents\visual studio 2012\Projects\JobInterview\JobInterview\obj\Debug\JobInterview.pdb
