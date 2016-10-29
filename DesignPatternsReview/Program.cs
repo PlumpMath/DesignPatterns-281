@@ -1,16 +1,21 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Ninject;
 
-namespace JobInterview
+namespace DesignPatternsReview
 {
     class Program
     {
         static void Main(string[] args)
-        {
-           
+        {   
+            /*
+            Ninject.IKernel kernel = new StandardKernel();
+            kernel.Bind<IFlybehavior>().To<FlyWithWing>();
+            var instance = kernel.Get<Duck>();
+            instance.PerformanceFly();*/
+            
+            Duck duck = new Duck(new FlyWithWing());
+            duck.PerformanceFly();
+            Console.ReadLine();
         }
     }
 }

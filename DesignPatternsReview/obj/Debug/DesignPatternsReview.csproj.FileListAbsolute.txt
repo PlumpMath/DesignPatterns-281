@@ -7,3 +7,11 @@ C:\Users\Nestor\documents\visual studio 2012\Projects\JobInterview\JobInterview\
 C:\Users\Nestor\Documents\Visual Studio 2012\Projects\DesignPatterns\DesignPatternsReview\bin\Debug\JobInterview.exe.config
 C:\Users\Nestor\Documents\Visual Studio 2012\Projects\DesignPatterns\DesignPatternsReview\obj\Debug\JobInterview.exe
 C:\Users\Nestor\Documents\Visual Studio 2012\Projects\DesignPatterns\DesignPatternsReview\obj\Debug\JobInterview.pdb
+C:\Development\C#\DesignPatterns\DesignPatternsReview\bin\Debug\JobInterview.exe.config
+C:\Development\C#\DesignPatterns\DesignPatternsReview\obj\Debug\JobInterview.exe
+C:\Development\C#\DesignPatterns\DesignPatternsReview\obj\Debug\JobInterview.pdb
+C:\Development\C#\DesignPatterns\DesignPatternsReview\obj\Debug\DesignPatternsReview.csprojResolveAssemblyReference.cache
+C:\Development\C#\DesignPatterns\DesignPatternsReview\bin\Debug\JobInterview.exe
+C:\Development\C#\DesignPatterns\DesignPatternsReview\bin\Debug\JobInterview.pdb
+C:\Development\C#\DesignPatterns\DesignPatternsReview\bin\Debug\Ninject.dll
+C:\Development\C#\DesignPatterns\DesignPatternsReview\bin\Debug\Ninject.xml

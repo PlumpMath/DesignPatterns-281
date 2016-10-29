@@ -1,4 +1,4 @@
-﻿namespace JobInterview
+﻿namespace DesignPatternsReview
 {
     public sealed class SingletonThreadSafe
     {

@@ -5,7 +5,7 @@ using System.Security;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JobInterview
+namespace DesignPatternsReview
 {
     public sealed class Singleton
     {
